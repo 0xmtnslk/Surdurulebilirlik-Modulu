@@ -1,7 +1,6 @@
-# 🌱 Sürdürülebilirlik Modülü - Tam Yedek Dosyası
+# 🌱 Sürdürülebilirlik Modülü
 # Oluşturulma Tarihi: 2024-12-17
-# HSE Platform - Sağlık, Emniyet, Çevre Yönetimi
-# Bu dosya bağımsız bir Replit projesinde kullanılabilir
+
 
 ---
 
