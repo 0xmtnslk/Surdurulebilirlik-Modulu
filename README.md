@@ -1,2 +1,0 @@
-# Surdurulebilirlik-Modulu
-Sürdürülebilirlik Modülü
